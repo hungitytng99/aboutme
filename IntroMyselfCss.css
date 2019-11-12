@@ -1,0 +1,128 @@
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -150px 0 0 -250px;
+}
+
+.card {
+    position: absolute;
+    width: 500px;
+    height: 300px;
+    background: white;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.info {
+    /*position: relative;*/
+    background: rgb(255, 145, 0);
+    width: 180px;
+    height: 300px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+.text1 {
+    position: relative;
+    background: rgb(255, 130, 0);
+    top: 55px;
+    left: 35px;
+    border-radius: 5px 5px 5px 5px;
+    width: 105;
+    height: 20;
+    border: solid;
+    border-color: cornsilk;
+    border-width: 1px;
+}
+
+.text2 {
+    position: relative;
+    background: rgb(255, 130, 0);
+    top: 70px;
+    left: 10px;
+    border-radius: 5px 0px 0px 5px;
+    width: 160;
+    height: 20;
+    border: solid;
+    border-color: cornsilk;
+    border-width: 1px;
+}
+
+.cardright {
+    position: relative;
+    background: white;
+    width: 320px;
+    height: 300px;
+    border-radius: 0px 5px 5px 0px;
+    left: 36%;
+    bottom: 100%;
+}
+
+.aboutme {
+    position: relative;
+    top: 10%;
+    left: 15%;
+    font-size: 160%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Fixed, monospace;
+}
+
+.school {
+    position: relative;
+    top: 20%;
+    left: 12%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.hobbies {
+    position: relative;
+    top: 25%;
+    left: 12%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.knowledge {
+    position: relative;
+    top: 30%;
+    left: 12%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.contact {
+    position: relative;
+    top: 35%;
+    left: 37%;
+    font-size: 120%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Fixed, monospace;
+}
+
+.fbImagePosition {
+    position: relative;
+    top: 38%;
+    left: 8%;
+}
+
+.fb {
+    width: 40%;
+    height: 9%;
+}
+
+.mailImagePosition {
+    position: relative;
+    top: 30%;
+    left: 50%;
+}
+
+.mail {
+    width: 50%;
+    height: 8%;
+}
+
+.avatarPosition {
+    position: relative;
+    top: 21%;
+    left: 16%;
+}
+
+.avatar {
+    width: 120;
+    height: 125;
+}
